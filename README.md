@@ -30,6 +30,20 @@
 
 ## Tests
 
+Describe:
+
+Test 1: "It should print out the thing user entered."
+Code: "run"
+Expected Outcome: "run"
+
+Test 2: "It should return an array of things user entered."
+Code: "run, sleep"
+Expected Outcome: "run, sleep"
+
+Test 3: "Should turn the array to an object"
+Code: "[run]"
+Expected Outcome: "{run}"
+
 ## License
 
 [MIT](https://www.mit.edu/~amini/LICENSE.md)
